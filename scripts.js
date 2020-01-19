@@ -1,13 +1,13 @@
-$("#customerName").text("Sunny");
-$("#policyNumber").text("J007742020");
-$("#startDate").text("22-Feb-2020");
-$("#endDate").text("22-Feb-2021");
+$("#customerName").text("Kulvir Singh");
+$("#policyNumber").text("J001912020");
+$("#startDate").text("20-Jan-2020");
+$("#endDate").text("19-Feb-2021");
 
 
 $("#type").text("Four Wheeler");
-$("#registrationNumber").text("PB08BL7193");
-$("#make").text("MARUTI SUZUKI");
-$("#model").text("ALTO");
-$("#vehicalSubType").text("LXI");
-$("#engineNo").text("F8DN3712938");
-$("#chassis").text("MMA3EYD81S01445286");
+$("#registrationNumber").text("PB07AR4111");
+$("#make").text("MARUTI");
+$("#model").text("SWIFT");
+$("#vehicalSubType").text("VDI");
+$("#engineNo").text("D13A0500252");
+$("#chassis").text("FHEB1S00708811");
